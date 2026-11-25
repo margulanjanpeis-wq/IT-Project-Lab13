@@ -1,0 +1,16 @@
+{
+  "repository": "margulanjanpeis-wq/DormDesk",
+  "period_start_utc": "2026-10-19",
+  "period_end_inclusive_utc": "2026-10-25",
+  "opened_issues": 0,
+  "closed_issues": 0,
+  "remaining_open_at_cutoff": 0,
+  "opened_issue_numbers": [],
+  "closed_issue_numbers": [],
+  "ci_runs": 0,
+  "successful_ci_runs": 0,
+  "failed_ci_runs": 0,
+  "deployments": null,
+  "blocked_issues": null,
+  "milestone_status": null
+}
